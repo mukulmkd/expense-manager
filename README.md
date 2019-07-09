@@ -1,2 +1,2 @@
 # expense-manager
-Expense Manager MERN App
+Expense Manager MERN App (More Description Coming Soon)
